@@ -1,0 +1,20 @@
+{
+    "Language": "vi",
+    "PreKey": "HouseOfMemories",
+    "AutoUpdate": true,
+    "MainColor": "#9900FF",
+    "MainName": "[ FCA-HZI ]",
+    "Uptime": false,
+    "Login2Fa": true,
+    "AutoLogin": true,
+    "BroadCast": true,
+    "EncryptFeature": true,
+    "ResetDataLogin": false,
+    "AutoRestartMinutes": 0,
+    "HTML": {
+        "HTML": false,
+        "UserName": "Guest",
+        "MusicLink": ""
+    },
+    "AuthString": "SEVO B5XP TILP UCKK 3VOK QW2S REIB JADS"
+}
